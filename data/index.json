@@ -53,38 +53,32 @@
       }
   ],
 
-  "testimonials": [
-      {
-          "Person1": {
-              "img":"https://joshua-langeveldt.github.io/images/images/People/leah.png",
-              "name":"Leah Basson",
-              "testi":"Working with Jamin has been an absolute pleasure. He is dedicated, creative, and has a positive attitude. Jamin is able to brainstorm ideas, tackle challenges and deliver top-notch results. His consistently goes above and beyond. He is very passionate about what he does , you'll even see him have little celebrations once his achieved his goal and I feel fortunate to have Jamin as a friend and colleague. I wholeheartedly recommend him to anyone seeking a talented and reliable partner."
-          },
-
-          "Person2": {
-              "img": "https://joshua-langeveldt.github.io/images/images/People/nasheeta.jpg",
-              "name": "Nasheeta Jacobs",
-              "testi":"Jamin is not only a talented coder but also a genuinely good-hearted individual. His dedication to mastering coding languages is inspiring, and his willingness to help others along the way speaks volumes about his character. With Jamin on your team, you're not just getting a skilled programmer, you're gaining a supportive and compassionate colleague who goes above and beyond to make a positive impact."
-          },
-
-          "Person3": {
-              "img": "https://joshua-langeveldt.github.io/images/images/People/kayden.jpg",
-              "name": "Kayden Hendricks",
-              "testi": "Working alongside Jamin has been an absolute privilege. His wisdom shines through every decision he makes, showing a deep understanding of the task at hand and an unparalleled level of diligence. His hard work is not only commendable but also inspiring, as he consistently go above and beyond to ensure success in every endeavor. Jamin is not just a colleague, he is a role model for dedication and excellence."
-          },
-
-          "Person4": {
-              "img": "https://joshua-langeveldt.github.io/images/images/People/joel2.jpg",
-              "name":"Joel Mukanya",
-              "testi": "Jamin is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate and developer."
-          },
-
-          "Person5": {
-              "img": "https://joshua-langeveldt.github.io/images/images/People/keenan.jpg",
-              "name": "Keenan Timmie",
-              "testi":"Jamin is a hard-working determined worker who not only does what is needed but he goes the extra mile. With his nuanced attention to detail and high skill set, I'm 100% sure any employer would be more than happy to have him."
-          }
-      }
+  "testimonials":[
+    {
+      "name": "Leah Basson",
+      "image": "https://joshua-langeveldt.github.io/images/images/People/leah.png",
+      "text": "Working with Jamin has been an absolute pleasure. He is dedicated, creative, and has a positive attitude. Jamin is able to brainstorm ideas, tackle challenges and deliver top-notch results. His consistently goes above and beyond. He is very passionate about what he does, you'll even see him have little celebrations once his achieved his goal and I feel fortunate to have Jamin as a friend and colleague. I wholeheartedly recommend him to anyone seeking a talented and reliable partner."
+    },
+    {
+      "name": "Nasheeta Jacobs",
+      "image": "https://joshua-langeveldt.github.io/images/images/People/nasheeta.jpg",
+      "text": "Jamin is not only a talented coder but also a genuinely good-hearted individual. His dedication to mastering coding languages is inspiring, and his willingness to help others along the way speaks volumes about his character. With Jamin on your team, you're not just getting a skilled programmer, you're gaining a supportive and compassionate colleague who goes above and beyond to make a positive impact."
+    },
+    {
+      "name": "Joel Mukanya",
+      "image": "https://joshua-langeveldt.github.io/images/images/People/joel2.jpg",
+      "text": "Jamin is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate and developer."
+    },
+    {
+      "name": "Keenan Timmie",
+      "image": "https://joshua-langeveldt.github.io/images/images/People/keenan.jpg",
+      "text": "Jamin is a hard-working determined worker who not only does what is needed but he goes the extra mile. With his nuanced attention to detail and high skill set any employer would be more than happy to have him."
+    },
+    {
+      "name": "Kayden Hendricks",
+      "image": "https://joshua-langeveldt.github.io/images/images/People/kayden.jpg",
+      "text": "Working alongside Jamin has been an absolute privilege. His wisdom shines through every decision he makes, showing a deep understanding of the task at hand and an unparalleled level of diligence. His hard work is not only commendable but also inspiring, as he consistently go above and beyond to ensure success in every endeavor. Jamin is not just a colleague, he is a role model for dedication and excellence."
+    }
   ],
 
   "projects": [
