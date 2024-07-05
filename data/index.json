@@ -90,7 +90,7 @@
        
     
     {
-        "img": "",
+        "img": "https://joshua-langeveldt.github.io/images/images/Projects/portfolio-B.png",
         "title": "Joshua's Porfolio",
         "description": "Legend$ Never Die",
         "project_url": "https://joshua-portfolio-five.vercel.app/",
@@ -99,7 +99,7 @@
     },
 
     {
-        "img": "",
+        "img": "https://joshua-langeveldt.github.io/images/images/Projects/choc-a-lot.png",
         "title": "Choc-A-Lot",
         "description": "A Sweet Shop",
         "project_url": "https://choco-a-lot.vercel.app/",
@@ -111,7 +111,7 @@
               "title": "Tindog",
               "description": "A Tinder For Dogs",
               "project_url":"https://tin-dog-20b22c.netlify.app",
-              "github_url": ""
+              "github_url": "https://github.com/King20Jamin/TinDog-Project.git"
 
           },
 
@@ -120,7 +120,7 @@
               "title": "DicceGame",
               "description": "Quick Decision Making Game",
               "project_url":"https://dicce-game-03a2fd.netlify.app",
-              "github_url": ""
+              "github_url": "https://github.com/King20Jamin/Dicce_Game_Rojectpay.git"
 
           },
 
@@ -129,7 +129,7 @@
               "title": "DrumKit",
               "description": "A Sweet Beat Maker",
               "project_url": "https://the-drum-kit-20e7f1e.netlify.app",
-              "github_url": ""
+              "github_url": "https://github.com/King20Jamin/DrumKit_Rojectpay.git"
 
           },
 
