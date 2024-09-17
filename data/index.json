@@ -88,15 +88,23 @@
 
   "projects": [
        
-    
     {
-        "img": "https://joshua-langeveldt.github.io/images/images/Projects/portfolio-B.png",
-        "title": "Joshua's Porfolio",
-        "description": "Legend$ Never Die",
-        "project_url": "https://joshua-portfolio-five.vercel.app/",
-        "github_url": "https://github.com/Joshua-Langeveldt/JoshuaPortfolio.git"
+      "img": "https://joshua-langeveldt.github.io/images/images/Projects/snack-shack.png",
+      "title": "Snack Shack",
+      "description": "Snack Smart, Snack Shack",
+      "project_url": "https://snack-shack-c0be8.web.app/",
+      "github_url": "https://github.com/Joshua-Langeveldt/Snack_Shack.git"
+  },
+    
+  {
+    "img": "https://joshua-langeveldt.github.io/images/images/Projects/aniverse.png",
+    "title": "Aniverse",
+    "description": "Anime Universe",
+    "project_url": "https://aniverse-148b3.web.app/",
+    "github_url": "https://github.com/Joshua-Langeveldt/eomp_node.git"
 
-    },
+},
+
 
     {
         "img": "https://joshua-langeveldt.github.io/images/images/Projects/choc-a-lot.png",
@@ -106,6 +114,16 @@
         "github_url": "https://github.com/Joshua-Langeveldt/Choco-A-Lot.git"
 
     },
+
+    {
+      "img": "https://joshua-langeveldt.github.io/images/images/Projects/portfolio-B.png",
+      "title": "Joshua's Porfolio",
+      "description": "Legend$ Never Die",
+      "project_url": "https://joshua-portfolio-five.vercel.app/",
+      "github_url": "https://github.com/Joshua-Langeveldt/JoshuaPortfolio.git"
+
+  },
+
           {
               "img": "https://joshua-langeveldt.github.io/images/images/Projects/tin_dog .jpg",
               "title": "Tindog",
@@ -134,37 +152,23 @@
           },
 
           {
-              "img": "https://joshua-langeveldt.github.io/images/images/Projects/git_repo.jpg",
-              "title": "Jamin's Github",
-              "description": "My Repositories",
-              "project_url": "https://github.com/King20Jamin",
-              "github_url": "https://github.com/King20Jamin"
-          },
+            "img": "https://joshua-langeveldt.github.io/images/images/Projects/calculator.png",
+            "title": "Calculator",
+            "description": "A Simple Calculator",
+            "project_url": "https://calculator-j-edit-g1ethdcf7-jamin-joshua-langeveldts-projects.vercel.app/",
+            "github_url": "https://github.com/Joshua-Langeveldt/Calculator-J-Edit.git"
 
-         {
-              "img": "https://joshua-langeveldt.github.io/images/images/Projects/virtual-keyboard.png",
-              "title": "Virtual Keyboard",
-              "description": "Online Keyboard",
-              "project_url": "https://keyboard-j-edition-pinojursc-jamin-joshua-langeveldts-projects.vercel.app/",
-              "github_url": "https://github.com/Joshua-Langeveldt/Keyboard-J-Edition.git"
+        },
 
-          },
           {
             "img": "https://joshua-langeveldt.github.io/images/images/Projects/git_repo.jpg",
             "title": "Joshua's Github",
             "description": "My Repositories",
             "project_url": "https://github.com/Joshua-Langeveldt?tab=repositories",
             "github_url": "https://github.com/Joshua-Langeveldt?tab=repositories"
-        },
+        }
 
-           {
-              "img": "https://joshua-langeveldt.github.io/images/images/Projects/calculator.png",
-              "title": "Calculator",
-              "description": "A Simple Calculator",
-              "project_url": "https://calculator-j-edit-g1ethdcf7-jamin-joshua-langeveldts-projects.vercel.app/",
-              "github_url": "https://github.com/Joshua-Langeveldt/Calculator-J-Edit.git"
 
-          }
 
 
 
